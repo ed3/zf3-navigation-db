@@ -1,0 +1,3 @@
+*.php diff=php
+*.phtml diff=php
+*.sql diff=php
