@@ -1,3 +1,2 @@
 *.php diff=php
-*.phtml diff=php
-*.sql diff=php
+*.rb linguist-language=PHP
